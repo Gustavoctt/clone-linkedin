@@ -2,14 +2,14 @@
 
 ![linkedin](https://user-images.githubusercontent.com/44401595/99251500-3501af00-27ec-11eb-96b2-b568b286a067.PNG)
 
-### Resultados do projeto
+### Resultados do projeto   :heavy_check_mark:
 
 Projeto criado para estudo sobre o ReactJs e alguns conhecimentos referentes ao Front-end.
 Foi implementado também o Shimmer Effect - O carregamento em cinza antes de tudo aparecer.
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas   :computer:
 
-- [X] REACTJS
+- [X] ReactJS
 - [X] TypeScript
 - [X] Styled-Components
 
